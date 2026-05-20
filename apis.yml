@@ -29,6 +29,8 @@ apis:
       - type: Documentation
         url: https://docs.overturemaps.org/
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/overture-maps-foundation
   - type: Documentation
     name: Overture Maps Foundation Documentation
     description: Official documentation for Overture Maps Foundation.
