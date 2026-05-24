@@ -39,6 +39,8 @@ common:
     name: Overture Maps Foundation GitHub
     description: Source code and repositories for Overture Maps Foundation.
     url: https://github.com/OvertureMaps
+  - type: LLMsTxt
+    url: https://docs.overturemaps.org/llms.txt
 maintainers:
   - FN: Kin Lane
     email: info@apievangelist.com
