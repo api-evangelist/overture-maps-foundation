@@ -29,6 +29,8 @@ apis:
       - type: Documentation
         url: https://docs.overturemaps.org/
 common:
+  - type: DomainSecurity
+    url: security/overture-maps-foundation-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/overture-maps-foundation
   - type: Documentation
@@ -41,6 +43,8 @@ common:
     url: https://github.com/OvertureMaps
   - type: LlmsText
     url: https://docs.overturemaps.org/llms.txt
+  - url: https://overturemaps.org/blog/
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: info@apievangelist.com
