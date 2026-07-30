@@ -3,9 +3,21 @@ name: Overture Maps Foundation
 description: >-
   The Overture Maps Foundation is a Linux Foundation project created in partnership with Meta, Microsoft, AWS, and TomTom to build reliable, open map data as an alternative to proprietary mapping platforms. It provides openly available datasets for places, buildings, transportation, and administrative boundaries.
 type: Index
+accessModel:
+  pricing: freemium
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Freemium
+  confidence: medium
+  source:
+  - plans
+  generated: '2026-07-22'
+  method: derived
 position: Consumer
 access: 3rd-Party
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/overture-maps-foundation.png
 tags:
   - Geospatial
   - Linux Foundation
